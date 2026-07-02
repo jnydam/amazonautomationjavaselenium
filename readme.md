@@ -4,10 +4,10 @@ To run the tests, please follow the following steps.
 
 git clone https://github.com/jnydam/amazonautomationjavaselenium.git
 
-cd project/
+cd amazonautomationjavaselenium/
 
-mvn install
+mvn install 
 
-mvn test
+mvn test (for other subsequent test runs)
 
 Reports can be seen in target/surefire-reports reports folder
